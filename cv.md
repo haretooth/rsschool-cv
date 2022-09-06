@@ -42,8 +42,8 @@ switch(+number){
 
 ## Experience:
 ## Education:
-College: Minsk State Vocational College of Railway Transport E.P. Yushkevich
-University: 
-Courses: 
+#### College: Minsk State Vocational College of Railway Transport E.P. Yushkevich
+#### University: 
+#### Courses: 
 
 
